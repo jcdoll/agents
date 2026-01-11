@@ -1,9 +1,15 @@
 ---
 name: code-review
-description: Reviews code for quality, security, and maintainability. Use after implementing features, completing significant work, or when user asks for code review.
-allowed-tools: Read, Grep, Glob, Bash
+description: >-
+  Reviews code for quality, security, and maintainability. Use after
+  implementing features, completing significant work, or when user asks for code
+  review.
+allowed-tools:
+  - Read
+  - Grep
+  - Glob
+  - Bash
 ---
-
 # Code Review
 
 ## Instructions

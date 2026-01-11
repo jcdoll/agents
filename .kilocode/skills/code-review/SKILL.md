@@ -1,13 +1,10 @@
 ---
 name: code-review
-description: Reviews code for quality, security, and maintainability. Use after implementing features, completing significant work, or when user asks for code review.
-targets: ["*"]
-claudecode:
-  allowed-tools: ["Read", "Grep", "Glob", "Bash"]
-codexcli:
-  allowed-tools: ["Read", "Grep", "Glob", "Bash"]
+description: >-
+  Reviews code for quality, security, and maintainability. Use after
+  implementing features, completing significant work, or when user asks for code
+  review.
 ---
-
 # Code Review
 
 ## Instructions

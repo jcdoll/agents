@@ -1,6 +1,8 @@
 ---
-description: Review code for quality and issues
+description: 'Review code for quality and issues'
+targets: ["*"]
 ---
+
 Use the code-review skill to review: $ARGUMENTS
 
 If no specific files or scope provided, review recent git changes using `git diff`.

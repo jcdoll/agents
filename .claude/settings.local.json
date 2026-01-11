@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(*.egg-info/)",
+      "Read(*.key)",
+      "Read(*.log)",
+      "Read(*.pem)",
+      "Read(*.py[cod])",
+      "Read(*.swp)",
+      "Read(*.temp)",
+      "Read(*.tmp)",
+      "Read(.coverage)",
+      "Read(.eggs/)",
+      "Read(.env)",
+      "Read(.idea/)",
+      "Read(.mypy_cache/)",
+      "Read(.pytest_cache/)",
+      "Read(.ruff_cache/)",
+      "Read(.uv/)",
+      "Read(.venv/)",
+      "Read(.vscode/)",
+      "Read(__pycache__/)",
+      "Read(build/)",
+      "Read(credentials/)",
+      "Read(dist/)",
+      "Read(htmlcov/)",
+      "Read(venv/)"
+    ]
+  }
+}
